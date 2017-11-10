@@ -14,7 +14,7 @@
       * @desc Buzz object audio file
       * @type {Object}
       */
-      var currentBuzzObject = null;
+      currentBuzzObject = null;
 
       /**
       * @function setSong
